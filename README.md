@@ -14,9 +14,11 @@ This can be useful, for example, in scientific research, where a reference manag
 
 There are several ways of installing the package, e.g.:
 
-- install the "devtools" package first, then use devtools::install_github("schmidtchristoph/bibDelete")
+- install the "devtools" package first, then use
+```devtools::install_github("schmidtchristoph/bibDelete")```
 
-- install the "devtools" package first, clone the repository, then use devtools::install("path/to/repository/bibDelete")
+- install the "devtools" package first, clone the repository, then use
+```devtools::install("path/to/repository/bibDelete")```
 
 - - - 
 
