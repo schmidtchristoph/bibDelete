@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/schmidtchristoph/bibDelete.svg?branch=master)](https://travis-ci.org/schmidtchristoph/bibDelete)
+[![Build Status](https://travis-ci.org/schmidtchristoph/bibDelete.svg?branch=master)](https://travis-ci.org/schmidtchristoph/bibDelete) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/schmidtchristoph/bibDelete?branch=master&svg=true)](https://ci.appveyor.com/project/schmidtchristoph/bibDelete)
 
 # bibDelete:
 ## Delete selected BibTeX field types
