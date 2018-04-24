@@ -1,7 +1,7 @@
 Package: bibDelete
 Type: Package
 Title: Delete selected field types in a bibtex file
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: person("Christoph", "Schmidt", , "schmidtchristoph@users.noreply.github.com", role = c("aut", "cre", "cph"))
 Description: Deletes all occurrences of a specified field type in a bibtex file
     and writes the processed bib entries as a new file into the same directory.
@@ -15,4 +15,5 @@ Suggests:
     devtools       (>= 1.12.0)
 URL: https://github.com/schmidtchristoph/bibDelete
 BugReports: https://github.com/schmidtchristoph/bibDelete/issues
+ByteCompile: true
 RoxygenNote: 6.0.1

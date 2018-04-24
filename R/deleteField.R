@@ -16,7 +16,7 @@
 #'
 #' @param addCustomField character string/ vector of character strings denoting
 #'   a custom bibtex field type(s) that should never be automatically removed.
-#'   This option is not needed for standard bibtex file.
+#'   This option is not needed for a standard bibtex file.
 #'
 #' @return Returns a logical indicating whether or not the field
 #'   \code{fieldname} was removed from file \code{filename}. If it was removed
