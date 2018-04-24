@@ -2,11 +2,13 @@
 
 # bibDelete:
 ## Delete selected BibTeX field types
-##### version 0.1.0
+##### version 0.1.1
 
 The bibDelete package allows to easily delete a specified BibTeX field type from all bib entries in a BibTeX file.
 
 This can be useful, for example, in scientific research, where a reference management software like [Papers](https://www.readcube.com/papers/) might add ```annote``` fields containing personal notes on read research literature, or notes about ideas for future research to exported BibTeX libraries. Such .bib files can be cleaned before being shared with coworkers using the ```deleteField()``` function that automatically removes all occurrences of a given nonessential field type.
+
+This package will be JIT byte code compiled upon installation.
 
 - - -
 
